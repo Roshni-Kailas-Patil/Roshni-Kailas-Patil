@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **roshnipatil162003@gmail.com**
 
-- 📄 Know about my experiences: ["C:\Users\roshn\OneDrive\Desktop\RESUME.docx"]
-
+- 📄 Know about my experiences:
+https://drive.google.com/file/d/1QEiPkTbT4lOCrc1E58bMs-co4FlG0s6D/view?usp=drivesdk
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roshni-kailas-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshni-kailas-patil" height="30" width="40" /></a>
