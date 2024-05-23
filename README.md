@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **roshnipatil162003@gmail.com**
 
-- 📄 Know about my experiences["C:\Users\roshn\OneDrive\Desktop\RESUME.docx"]
+- 📄 Know about my experiences: ["C:\Users\roshn\OneDrive\Desktop\RESUME.docx"]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
